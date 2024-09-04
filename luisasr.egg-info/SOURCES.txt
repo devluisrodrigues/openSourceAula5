@@ -1,0 +1,9 @@
+setup.py
+dev_aberto/__init__.py
+dev_aberto/dev_aberto.py
+dev_aberto/scripts/hello.py
+luisasr.egg-info/PKG-INFO
+luisasr.egg-info/SOURCES.txt
+luisasr.egg-info/dependency_links.txt
+luisasr.egg-info/requires.txt
+luisasr.egg-info/top_level.txt
