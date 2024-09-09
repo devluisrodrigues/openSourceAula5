@@ -7,5 +7,4 @@ setup(
     install_requires=[
         'requests',
     ],
-    scripts=['dev_aberto/scripts/hello.py'],
 )
